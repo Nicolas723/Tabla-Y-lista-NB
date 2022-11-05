@@ -1,0 +1,47 @@
+body {
+  background-color: #b7e1c3;
+}
+h1 {
+  color: #025a13;
+  font-size: 300%;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: #850000;
+}
+.Ciudades {
+  color: #003c8a;
+  font-size: 175%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: left;
+}
+#ListaC {
+  color: #000000;
+  font-size: 120%;
+  font-family: 'Times New Roman', Times, serif;
+  border: 1px black solid;
+}
+th {
+  color: #850000;
+  background-color: rgb(238, 203, 158);
+  font-size: 150%;
+}
+td {
+  color: #000000;
+  font-size: 110%;
+  text-align: center;
+}
+#ListaN{
+  background-color: white;
+  margin: 2px;
+}
+table,  tr, th, td{
+  border: 2px solid rgb(88, 29, 29);
+  border-collapse: collapse;
+
+}
+
+caption{
+  background-color: #000000;
+  color: white;
+  font-size: 200%;
+}
